@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "NetSlash.js",
+  "sourceRoot": "../coffee/",
+  "sources": [
+    "Stage.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,KAAA,CAAM,MAAN,CAAA,CAAA;AAAA"
+}
